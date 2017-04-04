@@ -7,7 +7,7 @@
 	• Some fixes around calling some funtions. 
 
 • To apply changes
-	• Obtain updated jar from nexus
+	• Obtain updated jar from nexus. Version remains unchanged for now. Goving forward will upgrade the version.
 	• Add properties 
 		• healthcheckservicedomain=tcccplatformframework-dev.cloudhub.io
 		• healthcheckserviceport=443
