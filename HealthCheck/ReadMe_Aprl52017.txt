@@ -11,4 +11,4 @@
 	• Add properties 
 		• healthcheckservicedomain=tcccplatformframework-dev.cloudhub.io
 		• healthcheckserviceport=443
-integrationNameValue=<your app name that you use for logging>
+		• integrationNameValue=<your app name that you use for logging>
